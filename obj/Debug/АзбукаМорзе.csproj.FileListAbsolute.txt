@@ -1,0 +1,9 @@
+C:\Users\Дмитрий\Documents\Visual Studio 2013\Projects\АзбукаМорзе\bin\Debug\АзбукаМорзе.exe.config
+C:\Users\Дмитрий\Documents\Visual Studio 2013\Projects\АзбукаМорзе\bin\Debug\АзбукаМорзе.exe
+C:\Users\Дмитрий\Documents\Visual Studio 2013\Projects\АзбукаМорзе\bin\Debug\АзбукаМорзе.pdb
+C:\Users\Дмитрий\Documents\Visual Studio 2013\Projects\АзбукаМорзе\obj\Debug\АзбукаМорзе.csprojResolveAssemblyReference.cache
+C:\Users\Дмитрий\Documents\Visual Studio 2013\Projects\АзбукаМорзе\obj\Debug\АзбукаМорзе.Form1.resources
+C:\Users\Дмитрий\Documents\Visual Studio 2013\Projects\АзбукаМорзе\obj\Debug\АзбукаМорзе.Properties.Resources.resources
+C:\Users\Дмитрий\Documents\Visual Studio 2013\Projects\АзбукаМорзе\obj\Debug\АзбукаМорзе.csproj.GenerateResource.Cache
+C:\Users\Дмитрий\Documents\Visual Studio 2013\Projects\АзбукаМорзе\obj\Debug\АзбукаМорзе.exe
+C:\Users\Дмитрий\Documents\Visual Studio 2013\Projects\АзбукаМорзе\obj\Debug\АзбукаМорзе.pdb
